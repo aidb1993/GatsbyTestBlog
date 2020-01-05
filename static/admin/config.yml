@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: aidb1993/GatsbyTestBlog.git
+  repo: aidb1993/GatsbyTestBlog
 
 media_folder: static/assets
 public_folder: assets
